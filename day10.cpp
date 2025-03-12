@@ -19,11 +19,11 @@ public:
         return profit;
     }
 };
-TC=0(N)
-SC=0(1)
+//TC=0(N)
+//SC=0(1)
 
 
-ques->2  Rearrange Elements by Sign
+//ques->2  Rearrange Elements by Sign
 
 class Solution {
     public:
@@ -55,7 +55,7 @@ class Solution {
 // or if greater then out that element to pos and do increment of pos by 2.
 
 
-ques->2 Next Permutation
+//ques->2 Next Permutation
 
 class Solution {
     public:
@@ -79,7 +79,7 @@ class Solution {
     };
 // TC:O(N)
 // SC:O(N)
-/ Approach:Find the first decreasing element from the right and swap it with the next 
+// Approach:Find the first decreasing element from the right and swap it with the next 
 // larger element. Reverse the right part to get the next permutation.
 
 
