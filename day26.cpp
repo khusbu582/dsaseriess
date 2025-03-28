@@ -36,6 +36,8 @@ class Solution {
     
     }
 };
+//TC =O(N)
+//SC=O(1)
 //ques->2
 /* Link list node */
 /*
@@ -63,3 +65,5 @@ class Solution {
         return false;
     }
 };
+//TC =O(N)
+//SC=O(1)
